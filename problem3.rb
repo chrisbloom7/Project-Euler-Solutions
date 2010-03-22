@@ -12,3 +12,5 @@ def factor_primes n
     break if b == n
   end
 end
+
+factor_primes 600851475143
